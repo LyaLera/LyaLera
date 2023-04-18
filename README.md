@@ -4,7 +4,7 @@
 
 ### _I ❤ studying Tech_
 ### _I 💻 Frontend Development_  
-### _I live in German_ 🇩🇪  
+### _I live in Germany_ 🇩🇪  
 ### _I'm a 👩‍🎓 of Beam institute of technology_    
 
 
