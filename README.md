@@ -1,7 +1,7 @@
 # Hello I'm Lera Lyakisheva     
 
 ### _I ❤ studying Tech_
-### _I 💻 Web Development_  
+### _I 💻 Frontend Development_  
 ### _I live in German_ 🇩🇪  
 ### _I'm a 👩‍🎓 of Beam institute of technology_  
 
