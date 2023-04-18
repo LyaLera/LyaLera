@@ -1,12 +1,6 @@
 # Hello I'm Lera Lyakisheva   
 
-<img src="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg" alt="studzing pictures" width="450px" height="200px">
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg">
- <img alt="YOUR-ALT-TEXT" src="Computer">
-</picture>
+<img src="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg" alt="studzing pictures" width="1150px" height="200px">
 
 ### _I ❤ studying Tech_
 ### _I 💻 Frontend Development_  
