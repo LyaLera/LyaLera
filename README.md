@@ -2,7 +2,7 @@
 
 ### _I ❤ studying Tech_
 ### _I 💻 Web Development_  
-### _I'm currently living in German_ 🇩🇪  
+### _I live in German_ 🇩🇪  
 ### _I'm a 👩‍🎓 of Beam institute of technology_  
 
 
