@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello I'm Lera Lyakisheva     
+
+### _I ❤ studying Tech_
+### _I 💻 Web Development_  
+### _I'm currently living in German_ 🇩🇪  
+### _I'm a 👩‍🎓 of Beam institute of technology_  
+
 
 <!--
 **LyaLera/LyaLera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
