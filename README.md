@@ -1,10 +1,17 @@
-![Web Development](https://res.cloudinary.com/practicaldev/image/fetch/s--qc_GPsrm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y932df8rdy0bwn1jzdrq.jpg)
-# Hello I'm Lera Lyakisheva     
+# Hello I'm Lera Lyakisheva   
+
+<img src="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg" alt="studzing pictures" width="450px" height="200px">
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg">
+ <img alt="YOUR-ALT-TEXT" src="Computer">
+</picture>
 
 ### _I ❤ studying Tech_
 ### _I 💻 Frontend Development_  
 ### _I live in German_ 🇩🇪  
-### _I'm a 👩‍🎓 of Beam institute of technology_  
+### _I'm a 👩‍🎓 of Beam institute of technology_    
 
 
 <!--
